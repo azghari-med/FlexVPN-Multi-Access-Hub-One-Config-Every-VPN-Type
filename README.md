@@ -1,9 +1,5 @@
 # 🌐 FlexVPN Multi-Access Hub — One Config, Every VPN Type
 
-!\[Cisco](https://img.shields.io/badge/Cisco-IOS--XE-1BA0D7?style=flat\&logo=cisco\&logoColor=white)
-!\[FlexVPN](https://img.shields.io/badge/FlexVPN-IKEv2-blue?style=flat)
-!\[ISE](https://img.shields.io/badge/Cisco-ISE%20RADIUS-orange?style=flat)
-!\[Status](https://img.shields.io/badge/Status-Phased%20Build-yellow?style=flat)
 
 A single **FlexVPN hub** (IOS-XE) that terminates **every major VPN type** into one enterprise core — dynamic multi-spoke (DMVPN-style), a site-to-site **ASA over VTI IPsec**, and **AnyConnect remote access** — all from **one unified IKEv2 configuration**, with **Cisco ISE (RADIUS)** authenticating every connection.
 
